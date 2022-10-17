@@ -1,0 +1,2 @@
+import{B as t}from"./Button.c1521d80.js";import"./index.module.db7514bb.js";import"./index.e23a4a5d.js";import"./iframe.8fa2a562.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.acbede18.js";const p={title:"Components/Button",component:t,args:{children:"Create account"},argTypes:{size:{options:["sm","md","lg"],control:{type:"inline-radio"}}}},m={},a=["Default"];export{m as Default,a as __namedExportsOrder,p as default};
+//# sourceMappingURL=Button.stories.870c1dcc.js.map
